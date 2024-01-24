@@ -1,3 +1,1 @@
-# Yuri Temiraev
-
-Data analyst & Researcher
+More stuff will be here soon.
