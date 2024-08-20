@@ -1,5 +1,4 @@
 # Bober Kurwa
 
-![Bober]("/assets/bober-kurwa.jpg")
-
+![Bober](/assets/img/boberkurwa.jpg)
 To be updated! Stay tuned :)
