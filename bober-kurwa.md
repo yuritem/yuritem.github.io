@@ -2,3 +2,5 @@
 
 ![Bober](/assets/img/boberkurwa.jpg)
 To be updated! Stay tuned :)
+
+[back](index.md)
